@@ -356,9 +356,9 @@ weakdeps = ["SpecialFunctions"]
 
 [[deps.Colorfy]]
 deps = ["ColorSchemes", "Colors", "Dates"]
-git-tree-sha1 = "7339fd7714bb1fea9cc6c530f255980cba64b4f4"
+git-tree-sha1 = "cb7e220c188a1ff064dd9d8d1876cd6c8c27c615"
 uuid = "03fe91ce-8ec6-4610-8e8d-e7491ccca690"
-version = "1.0.0"
+version = "1.0.1"
 weakdeps = ["CategoricalArrays", "Distributions", "Unitful"]
 
     [deps.Colorfy.extensions]
