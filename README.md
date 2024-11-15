@@ -2,6 +2,12 @@
 
 Instructor: [Júlio Hoffimann](https://juliohm.github.io)
 
+## Preview
+
+Interactive 3D visualization of interpolated temperature from meteorological stations in Brazil:
+
+![preview](https://i.imgur.com/5t1txH7.png)
+
 ## Installation
 
 *We highly recommend installing the software before the workshop.*
