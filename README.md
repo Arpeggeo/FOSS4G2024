@@ -58,3 +58,7 @@ Pkg.instantiate()
 
 The instantiation may take a couple of minutes depending on your
 internet connection and hardware.
+
+## Answers
+
+The final script with all answers can be found in the `answers` branch of this repository.
